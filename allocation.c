@@ -4,7 +4,7 @@
 int main() {
    int i;
   int nombreDAmis = 10;
-    // ageAmis = NULL; // Ce pointeur va servir de tableau après l'appel du malloc
+    // ageAmis = NULL; // Ce pointeur va servir de tableau après l'appel du malloc master_V2
 
     
 
