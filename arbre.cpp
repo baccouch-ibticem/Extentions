@@ -15,7 +15,7 @@ void Placer(Noeud* noeud)
    Noeud* courant = arbre;
    Noeud* precedent = NULL;
 
-   // Si l'arbre est vide, ça va très vite :
+   // Si l'arbre est vide, ça va très vite : alors
    if(arbre == NULL)
    {
       arbre = noeud;
